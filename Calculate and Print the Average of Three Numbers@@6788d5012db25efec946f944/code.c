@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main(){
-    int a,b,c,avg;
-    scanf("%d",&a);
-    scanf("%d",&b);
-    scanf("%d",&c);
+    float a,b,c,avg;
+    scanf("%f",&a);
+    scanf("%f",&b);
+    scanf("%f",&c);
     avg=(a+b+c)/3;
-    printf("%d",avg);
+    printf("%.2f",avg);
     return 0;
 }
