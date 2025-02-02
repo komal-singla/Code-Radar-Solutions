@@ -8,4 +8,5 @@ int main(){
     else{
         printf("Uppercase");
     }
+    return 0;
 }
