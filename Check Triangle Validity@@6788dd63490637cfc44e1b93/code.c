@@ -2,7 +2,7 @@
 int main(){
     int a,b,c;
     scanf("%d %d %d",&a,&b,&c);
-    if(a^2+b^2==c^2){
+    if(a+b>0 || b+c>0 || a+c>0){
         printf("Valid");
     }
     else{
