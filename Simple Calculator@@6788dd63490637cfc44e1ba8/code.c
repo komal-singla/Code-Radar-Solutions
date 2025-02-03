@@ -6,7 +6,7 @@ int main(){
     scanf("%c",&c);
     switch(c){
         case '+':
-        printf("%d",a+b,a,b);
+        printf("%d",a,b,a+b);
         break;
         case '-':
         printf("%d",a-b);
