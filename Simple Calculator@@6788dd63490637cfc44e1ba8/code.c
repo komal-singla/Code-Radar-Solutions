@@ -9,13 +9,13 @@ int main(){
         printf(a+b);
         break;
         case '-':
-        printf("%d",a-b);
+        printf(a-b);
         break;
         case '*':
-        printf("%d",a*b);
+        printf(a*b);
         break;
         case '/':
-        printf("%d",a/b);
+        printf(a/b);
         break;
     }
 
