@@ -6,6 +6,6 @@ int main(){
     r=a;
     a=b;
     b=r;
-    printf("%d",r);
+    printf("%d %d",a,b);
 
 }
