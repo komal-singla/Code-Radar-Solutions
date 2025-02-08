@@ -6,4 +6,5 @@ int main(){
         printf("%d\b",i);
         i+=1;
     }
+    return 0;
 }
