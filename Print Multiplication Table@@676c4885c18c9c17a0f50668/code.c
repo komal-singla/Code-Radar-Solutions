@@ -6,7 +6,6 @@ int main(){
     scanf("%d",&a);
     do{
         n+=i;
-        printf("%d x %d = \n",a,n);
-        
     }while(i<=10);
+    printf("%d x %d = n*i\n",a,n);
 }
