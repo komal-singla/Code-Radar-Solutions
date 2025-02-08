@@ -2,7 +2,7 @@
 int main(){
     int a;
     int n=0;
-    int i=1;
+    int i=0;
     scanf("%d",&a);
     do{
         n+=i;
