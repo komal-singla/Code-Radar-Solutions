@@ -21,5 +21,8 @@ int main(){
     //         printf("error");
     //     }
     }
+    else{
+        printf("error");
+    }
     return 0;
 }
