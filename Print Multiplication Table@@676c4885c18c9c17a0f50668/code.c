@@ -4,7 +4,6 @@ int main(){
     int i=1;
     scanf("%d",&n);
     do{
-        n+=i;
         printf("%d x %d = %d\n",n,i,n*i);
         i++;
     }while(i<=10);
